@@ -1,2 +1,1 @@
-print("abc")
-print("changed")
+print("abcdef")
